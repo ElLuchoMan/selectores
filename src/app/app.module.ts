@@ -8,7 +8,6 @@ import { SelectorPageComponent } from './paises/pages/selector-page/selector-pag
 @NgModule({
   declarations: [
     AppComponent,
-    SelectorPageComponent
   ],
   imports: [
     BrowserModule,
